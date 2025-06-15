@@ -36,6 +36,6 @@ Dataset contains various car features collected from reliable sources.
 3. Open and run `car_price_prediction.ipynb`
 
 ## LinkedIn Post  
-[View my LinkedIn post about this project]((https://www.linkedin.com/posts/rahul-babu-koppula_oibsip-oasisinfobyte-python-activity-7339915186582994944-ef8Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQMCpABD4RO0MvOD340mi85zRBCDrHCykQ))
+[View my LinkedIn post about this project](https://www.linkedin.com/posts/rahul-babu-koppula_oibsip-oasisinfobyte-python-activity-7339915186582994944-ef8Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQMCpABD4RO0MvOD340mi85zRBCDrHCykQ)
 
 ---
