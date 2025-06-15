@@ -34,6 +34,6 @@ Advertising and sales data from various platforms and demographics.
 2. Run `sales_prediction.ipynb`
 
 ## LinkedIn Post  
-[View my LinkedIn post about this project](https://www.linkedin.com/in/your-profile-link)
+[View my LinkedIn post about this project](https://www.linkedin.com/posts/rahul-babu-koppula_oibsip-oasisinfobyte-python-activity-7339915328312745984-drJo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQMCpABD4RO0MvOD340mi85zRBCDrHCykQ)
 
 ---
