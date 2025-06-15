@@ -27,5 +27,6 @@ If you find this repository helpful, please consider giving it a ⭐. Your suppo
 ### 📬 Contact
 
 For any queries, suggestions, or collaboration opportunities, feel free to reach out:  
-📧 [KOPPULA_RAHUL_BABU](rahulrkgs34@gmail.com)
+     [KOPPULA_RAHUL_BABU]
+📧 (rahulrkgs34@gmail.com)
 
