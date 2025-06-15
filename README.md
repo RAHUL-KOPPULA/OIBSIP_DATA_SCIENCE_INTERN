@@ -19,6 +19,8 @@ Feel free to explore each project folder for detailed documentation and code.
 
 ---
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile-link)  
+Connect with me on [LinkedIn](www.linkedin.com/in/rahul-babu-koppula)  
 #DataScience #MachineLearning #Python #OIBSIP #OasisInfobyte #Internship #MLProjects
+### 🙌 Support
 
+If you find this repository helpful, please consider giving it a ⭐. Your support means a lot
