@@ -36,6 +36,6 @@ Data sourced from trusted public datasets such as the World Bank and national la
 2. Run the notebook: `unemployment_analysis.ipynb`
 
 ## LinkedIn Post  
-[View my LinkedIn post about this project](https://www.linkedin.com/in/your-profile-link)
+[View my LinkedIn post about this project](https://www.linkedin.com/posts/rahul-babu-koppula_oibsip-oasisinfobyte-python-activity-7339914073888759808-qNnP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQMCpABD4RO0MvOD340mi85zRBCDrHCykQ)
 
 ---
