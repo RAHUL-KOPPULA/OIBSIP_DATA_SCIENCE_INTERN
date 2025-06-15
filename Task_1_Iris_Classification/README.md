@@ -34,6 +34,6 @@ You can use the built-in Iris dataset from Scikit-learn or download it from [her
 2. Run `iris_classification.ipynb` in Jupyter Notebook
 
 ## LinkedIn Post  
-[View my LinkedIn post about this project](https://www.linkedin.com/in/your-profile-link)
+[View my LinkedIn post about this project](https://www.linkedin.com/posts/rahul-babu-koppula_oibsip-datascience-machinelearning-activity-7338974365478211584-rbrC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQMCpABD4RO0MvOD340mi85zRBCDrHCykQ)
 
 ---
