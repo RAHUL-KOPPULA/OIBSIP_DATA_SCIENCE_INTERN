@@ -7,7 +7,7 @@ Welcome to my portfolio showcasing data science projects completed during my int
 
 | No. | Project                     | Description                                             | LinkedIn Post                                               | Detailed README                   |
 |------|----------------------------|---------------------------------------------------------|-------------------------------------------------------------|----------------------------------|
-| 1    | Iris Flower Classification | Classify iris species based on flower measurements      | [LinkedIn](https://www.linkedin.com/in/your-profile-link)   | [README](./IrisFlower_README.md) |
+| 1    | Iris Flower Classification | Classify iris species based on flower measurements      | [LinkedIn](https://www.linkedin.com/in/your-profile-link)   | [README]([./IrisFlower_README.md](https://github.com/RAHUL-KOPPULA/OIBSIP_DATA_SCIENCE_INTERN/blob/main/Task_1_Iris_Classification/README.md)) |
 | 2    | Unemployment Rate Analysis  | Analyze & forecast unemployment trends during COVID-19 | [LinkedIn](https://www.linkedin.com/in/your-profile-link)   | [README](./Unemployment_README.md)|
 | 3    | Car Price Prediction        | Predict car prices based on key features                 | [LinkedIn](https://www.linkedin.com/in/your-profile-link)   | [README](./CarPrice_README.md)    |
 | 4    | Email Spam Detection        | Classify emails as spam or non-spam                      | [LinkedIn](https://www.linkedin.com/in/your-profile-link)   | [README](./SpamDetection_README.md)|
