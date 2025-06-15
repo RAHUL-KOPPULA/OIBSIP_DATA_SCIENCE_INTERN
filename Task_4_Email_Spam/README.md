@@ -35,6 +35,6 @@ Dataset includes labeled emails categorized as spam or ham.
 2. Run `spam_detection.ipynb` notebook
 
 ## LinkedIn Post  
-[View my LinkedIn post about this project](https://www.linkedin.com/in/your-profile-link)
+[View my LinkedIn post about this project]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/posts/rahul-babu-koppula_oibsip-oasisinfobyte-python-activity-7339915412924416000-yZPW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQMCpABD4RO0MvOD340mi85zRBCDrHCykQ))
 
 ---
